@@ -1,0 +1,98 @@
+
+
+/* --------------navbar-1------------ */
+
+.logo_edit img{
+    height: 90px;
+    width: 175px;
+    margin-left: 50px;
+}
+
+.contact_icon{
+    margin-left: 70px;
+}
+
+.contact_icon_edit li{
+    padding: 7px;
+  color: black;
+}
+
+.contact_icon_edit li a i{
+    padding: 3px;
+}
+
+.contact_icon_edit li a{
+    color: black;
+}
+
+.icon_edit i{
+    color: cyan;
+}
+
+.phone{
+    font-size: 20px;
+}
+
+.phone a{
+    color: mediumslateblue;
+}
+
+.holder{
+    border: 1px solid red;
+    background-color: hotpink;
+    padding: 2px 12px;
+    border-radius: 10px;
+    transition: .5s ease all;
+    
+    
+}
+
+.holder:hover{
+    background-color: lightgreen;
+}
+
+.holder button{
+    font-size: 17px;
+    font-weight: bold;
+}
+
+
+.holder i{
+    padding: 7px;
+    font-size: 20px;
+}
+
+/* --------------navbar-1------------ */
+
+
+
+
+
+
+/* --------------navbar-2------------ */
+
+.button_group{
+    margin-left: 50px;
+}
+
+
+.dropdown_edit{
+    padding: 10px;
+}
+
+.search_edit{
+    margin-right: 100px;
+}
+
+.cart_icon{
+    margin-right: 25px;
+    font-size: 23px;
+    
+}
+
+
+.cart_icon:hover{
+    color: cyan;
+}
+
+/* --------------navbar-2------------ */
